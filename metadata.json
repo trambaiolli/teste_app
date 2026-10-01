@@ -1,0 +1,6 @@
+{
+  "name": "Laptop JJ - BJJ Academy",
+  "description": "Plataforma oficial de treinos, check-in no tatame, evolução de faixas e currículo técnico da Laptop JJ Academy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
